@@ -1,0 +1,28 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+/*! Wiki.js - wiki.js.org - Licensed under AGPL */
+(this.webpackJsonp=this.webpackJsonp||[]).push([["mdi"],{"./node_modules/@mdi/font/css/materialdesignicons.css":function(s,e,o){var d=o("./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js"),n=o("./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src/index.js!./node_modules/@mdi/font/css/materialdesignicons.css");"string"==typeof(n=n.__esModule?n.default:n)&&(n=[[s.i,n,""]]);var i={insert:"head",singleton:!1};d(n,i);s.exports=n.locals||{}},"./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src/index.js!./node_modules/@mdi/font/css/materialdesignicons.css":function(s,e,o){}}]);
+}
+
+/*
+     FILE ARCHIVED ON 09:24:10 Oct 14, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:22:24 Aug 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.294
+  load_resource: 139.002 (2)
+  PetaboxLoader3.resolve: 72.336 (2)
+  PetaboxLoader3.datanode: 31.956 (2)
+*/
