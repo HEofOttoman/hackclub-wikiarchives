@@ -1,3 +1,10 @@
 # YSWS
-Hack Club YSWS programs, short for "You Ship, We Ship", are a part of the main divisions of programs run by the organisation. The participants develop their own projects, and in return, get software prizes.
+Hack Club YSWS programs, short for "You Ship, We Ship", are a part of the main divisions of programs run by Hack Club. Participants develop their own projects, and in return, receive support to incentivize them to work on their next project.
 The organisation of YSWSes are governed by HQ, and rewards around the principles of Hacker Value.
+
+## Philosophy
+>Good hackers / engineers are never quite an employee. They can be managed, but rarely directed. They follow their own curiosity their own way, always honestly, often infuriatingly, along with their sense of taste for which problems are interesting and which aren't.
+>-Deven
+
+## References
+1. [The Plan For Hack Club World Dominance notes.deven.dev](https://notes.deven.dev/posts/the-plan-for-hack-club-world-dominance)
