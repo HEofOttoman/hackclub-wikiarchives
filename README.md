@@ -6,7 +6,7 @@ The following were retrieved from the internet archive
 - [ ] Nest Article
 - [ ] Incidents list
     - [x] Zach Latdroid Incident
-- [ ] List of YSWS
+- [x] [List of YSWS](https://web.archive.org/web/20251011134836mp_/https://hackclub.wiki/en/List_of_You_Ship_We_Ships)
 
 
 
