@@ -1,0 +1,12 @@
+# 2024 Hack Club Confessions Controversy
+The 2024 Hack Club Confessions controversy, sometimes referred to as Coup du CRT, was a period of significant internal conflict within the community centered on Confessions and its moderation. The event, which occurred in April 2024, involved a disputed change in moderation policy, the removal of volunteer moderators, and the banning of a prominent community member.
+
+## Incident
+The situation began with a surge of confessions that were critical Hack Club HQ team, alongside counter-confessions defending it. This led to a chaotic atmosphere that, according to subsequent statements from the community team, negatively affected the mental well-being of several community members and volunteers, with some considering leaving the community altogether. In response, on April 13, a member of the community team instructed the Confessions Review Team (CRT) in a private channel to begin censoring all anti-HQ confessions. This instruction was soon revealed publicly by a CRT member, who also announced their intention to resign.
+
+A vote was subsequently held within the CRT on a new policy to formally disallow confessions criticizing HQ. The vote saw low participation, with three members in favor and one against. Shortly after, the community team announced the policy change publicly in the #confessions channel, stating it had been approved by a "majority" of the CRT. This claim was immediately contested by other CRT members, who argued the process was undemocratic due to the short voting window and the low number of affirmative votes, which did not constitute a majority of the entire team.
+
+## Reception
+The dispute escalated when two CRT members who had protested the new policy were removed from the team by the community team for insubordination, specifically for continuing to approve critical messages after the announcement. This action triggered a community outcry, including the creation of polls demanding the moderators' reinstatement and the deployment of spam bots by a user demanding more transparency. In the ensuing turmoil, the primary community member who had leaked the initial policy change was banned from the Slack workspace for up to one year. Later, it was extended to an indefinite ban.
+
+Later, the other member of CRT was reinstated back onto CRT.

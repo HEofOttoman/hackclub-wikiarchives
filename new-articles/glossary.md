@@ -1,5 +1,6 @@
 # Glossary
-Hack Club is full of things! It unfortunately means many things are buried in metalanguage. 
+Hack Club is full of things! It unfortunately means many things are buried in metalanguage. This article is an effort to rework that!
 
-- Fraud Squad: Fraud department.
+- YSWS: You Ship We Ship.
+- Fraud Squad: Fraud department. Checks who does fraud or not.
 - 
