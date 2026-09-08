@@ -8,6 +8,6 @@ The following were retrieved from the internet archive
     - [x] Zach Latdroid Incident
 - [x] [List of YSWS](https://web.archive.org/web/20251011134836mp_/https://hackclub.wiki/en/List_of_You_Ship_We_Ships)
 
-
+In the future, this site will contain a jekyll blog of the archived wiki pages in markdown, and some of the configuration for the active mediawiki.
 
 ![nest](nest88x31.png)
