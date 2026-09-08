@@ -8,9 +8,10 @@ Nest is operated and maintained by Hack Club volunteers, with infrastructure hos
 ### Hardware
 The primary server is a Hetzner AX162-R dedicated server with the following specifications:
 
-AMD EPYC Genoa 9454P processor
-256 GB DDR5 RAM
-2 × 1.92 TB NVMe SSDs
-Gigabit internet connection
-### Data Management
+- AMD EPYC Genoa 9454P processor
+- 256 GB DDR5 RAM
+- 2 × 1.92 TB NVMe SSDs
+- Gigabit internet connection
+
+## Data Management
 Nest provides transparency regarding user data, including storage locations and access procedures. Data is stored primarily in users' home directories and associated databases across the Nest intranet. Nest tends to operate with the GDPR privacy framework.

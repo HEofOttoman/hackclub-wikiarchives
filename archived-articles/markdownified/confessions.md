@@ -1,5 +1,5 @@
 # Confessions
-Confessions, sometimes stylized as #confessions, is an anonymous messaging channel within the Hack Club Slack. It uses an open-source bot named Prox2 to allow community members to submit messages for review and subsequent anonymous posting by the bot. The channel is governed by an informal moderation policy enforced by a volunteer Confessions Review Team (CRT).
+Confessions, sometimes stylized as `#confessions`, is an anonymous messaging channel within the Hack Club Slack. It uses an open-source bot named Prox2 to allow community members to submit messages for review and subsequent anonymous posting by the bot. The channel is governed by an informal moderation policy enforced by a volunteer Confessions Review Team (CRT).
 
 ## Purpose
 The primary function of Confessions is to provide a platform to discuss sensitive topics, share personal struggles, offer feedback about operations in, and engage in serious discussions while maintaining pseudo-anonymity.
