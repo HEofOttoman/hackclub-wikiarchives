@@ -1,0 +1,15 @@
+<strong>Welcome to the (unofficial) Hack Club Wiki!</strong>
+
+<rss max=4 highlight="community wiki foundation">https://news.hackclub.com/feed.xml</rss>
+
+Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents User's Guide] for information on using the wiki software.
+
+== Pages ==
+* [[YSWS]] & [[List of YSWS]]
+
+== Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]

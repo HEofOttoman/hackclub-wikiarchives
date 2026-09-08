@@ -137,3 +137,5 @@ dist
 
 # Custom (.env)
 *.key
+.env.*
+*.key.pub
