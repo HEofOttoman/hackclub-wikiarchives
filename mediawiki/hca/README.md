@@ -11,4 +11,13 @@ Wait I might not even need this with [PluggableAuth](https://www.mediawiki.org/w
 ```
 wfLoad( 'PluggableAuth' );
 wfLoad( 'OpenID Connect' );
+
+$wgPluggableAuth_Config[] = [
+	'plugin' => 'OpenIDConnect',
+	'data' => [
+		'providerUrl' => 'https://hackclub.com/',
+		'clientID' => getenv('HCA_CLIENT_ID'),
+		'clientSecret' => getenv('HCA_CLIENT_SECRET'),
+	]
+]
 ```

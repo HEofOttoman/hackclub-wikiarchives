@@ -1,26 +1,28 @@
 # Hack Club Wiki Archives
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
 In the future, with ongoing progress, this site will contain a jekyll blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
-1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source) 
+1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
 2. Website source for an archived meta-site featuring the original content of hackclub.wiki (probably on Jekyll)
 3. Configuration files for a running Mediawiki and ad-hoc backups
 4. Source code for a Mediawiki-HCA extension
 
 ## Sources
-The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown):
-- [ ] Welcome (Home Page) at [hackclub.wiki](https://web.archive.org/web/20251014093834/https://hackclub.wiki/) (17 captures, 2 from 2024, rest of 2025)
+The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown (or having been downloaded as a pdf)):
+- [x] Welcome (Home Page) at [hackclub.wiki](https://web.archive.org/web/20251014093834/https://hackclub.wiki/) (17 captures, 2 from 2024, rest of 2025)
 - [x] [Confessions Article](https://web.archive.org/web/20251031063018mp_/https://hackclub.wiki/en/Confessions) (the latest, from 31 Oct 2025)
 - [x] Nest Article
 - [ ] [List of Incidents](https://web.archive.org/web/20251104184230/https://hackclub.wiki/en/List_of_Incidents)
     - [x] [2025 Zach Latdroid Incident](https://web.archive.org/web/20251014092407mp_/https://hackclub.wiki/en/2025_Zach_Latdroid_Incident)
-    - [ ] [2024 Hack Club Confessions Controversy](https://web.archive.org/web/20251031062843mp_/https://hackclub.wiki/en/2024_Hack_Club_Confessions_Controversy)
+    - [x] [2024 Hack Club Confessions Controversy](https://web.archive.org/web/20251031062843mp_/https://hackclub.wiki/en/2024_Hack_Club_Confessions_Controversy)
     - [x] [Privacy concerns and data handling at Hack Club](https://web.archive.org/web/20251031062848mp_/https://hackclub.wiki/en/Privacy_concerns_and_data_handling_at_Hack_Club) (1 capture)
 - [x] [List of YSWS](https://web.archive.org/web/20251011134836mp_/https://hackclub.wiki/en/List_of_You_Ship_We_Ships)
 - [x] [List of Hackathons](https://web.archive.org/web/20251102014713mp_/https://hackclub.wiki/en/List_of_Hackathons) (1 capture)
 - [x] [List of Community Teams](https://web.archive.org/web/20251022192447mp_/https://hackclub.wiki/en/List_of_Community_Teams) (1 capture)
-- [ ] [Confessions](https://web.archive.org/web/20251031063018/https://hackclub.wiki/en/Confessions) (6 captures)
+- [x] [Confessions](https://web.archive.org/web/20251031063018/https://hackclub.wiki/en/Confessions) (6 captures)
 
 - [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
+- I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
+- Furthermore, some articles appear on the sidebar of the successfully archived articles, but aren't archived.
 
 ### Decisions
 - Some of the markdown renditions of the archived articles have been attached with a source link. That might change in the future 
