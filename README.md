@@ -4,7 +4,7 @@ In the future, with ongoing progress, this site will contain a jekyll blog of th
 1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
 2. Website source for an archived meta-site featuring the original content of hackclub.wiki (probably on Jekyll)
 3. Configuration files for a running Mediawiki and ad-hoc backups
-4. Source code for a Mediawiki-HCA extension
+4. ~~Source code for a Mediawiki-HCA extension~~
 
 ## Sources
 The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown (or having been downloaded as a pdf)):
@@ -43,5 +43,7 @@ This project would not have been possible without the following amazing people:
 - Dani Davidson, for having last edited some archived articles
 - Those wonderful souls who have decided to archive the wiki, the result only which we would've been able to ban today.
 - And definitely, those people who are running the Internet Archive.
+
+Oh and Google AI for helping me install MediaWiki
 
 ![nest](nest88x31.png) This is cool, was archived as a footer.
