@@ -3,5 +3,5 @@ Hack Club is full of things! It unfortunately means many things are buried in me
 
 - YSWS: You Ship We Ship.
 - Fraud Squad: Fraud department. Checks who does fraud or not.
-- Fire Department: Moderation teem for the Slack.
+- Fire Department: Moderation team for the Slack.
 
