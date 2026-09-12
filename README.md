@@ -1,5 +1,9 @@
-<img src="HC Wiki Wordmark.png" />
-<!-- <img src="Logo.png" /> -->
+<div align="center">
+    <img src="HC Wiki Wordmark.png" />
+    <!-- <img src="Logo.png" /> -->
+    <!-- <h1>The Hack Club Wiki Archives</h1> -->
+    <!-- <h4>A collection resources relating to the Hack Club Wiki.</h4> -->
+</div>
 
 # Hack Club Wiki Archives
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
