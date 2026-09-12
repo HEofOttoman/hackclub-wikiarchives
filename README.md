@@ -1,3 +1,6 @@
+<img src="HC Wiki Wordmark.png" />
+<!-- <img src="Logo.png" /> -->
+
 # Hack Club Wiki Archives
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
 In the future, with ongoing progress, this site will contain a jekyll blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
@@ -20,9 +23,9 @@ The following articles were retrieved from the internet Archive from hackclub.wi
 - [x] [List of Community Teams](https://web.archive.org/web/20251022192447mp_/https://hackclub.wiki/en/List_of_Community_Teams) (1 capture)
 - [x] [Confessions](https://web.archive.org/web/20251031063018/https://hackclub.wiki/en/Confessions) (6 captures)
 
-- [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
-- I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
-- Furthermore, some articles appear on the sidebar of the successfully archived articles, but aren't archived.
+1. [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
+2. I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
+3. Furthermore, some articles appear on the sidebar of the successfully archived articles, but aren't archived.
 
 ### Decisions
 - Some of the markdown renditions of the archived articles have been attached with a source link. That might change in the future 
