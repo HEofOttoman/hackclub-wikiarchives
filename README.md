@@ -41,7 +41,7 @@ The following articles were retrieved from the internet Archive from hackclub.wi
  
 ## Tech Stack
 - Docker is used to deploy the mediawiki on a personal Oracle VPS
-- Jekyll is (probably going to be) used for the archived version of the site
+- Jekyll (Github Pages) is (probably going to be) used for the archived version of the site
 
 ## Credits
 This project would not have been possible without the following amazing people: 

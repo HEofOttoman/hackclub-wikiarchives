@@ -98,6 +98,12 @@ RUN set -eux; \
 	gpg --batch --verify mediawiki.tar.gz.sig mediawiki.tar.gz; \
 	tar -x --strip-components=1 -f mediawiki.tar.gz; \
 	gpgconf --kill all; \
+	
+	# a bunch of extra extensions hopefully this works (ft google ai)
+	git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/RSS; \
+	git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/PluggableAuth; \
+	git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/OpenIDConnect; \
+
 	rm -r "$GNUPGHOME" mediawiki.tar.gz.sig mediawiki.tar.gz; \
 	chown -R www-data:www-data extensions skins cache images; \
 	\
