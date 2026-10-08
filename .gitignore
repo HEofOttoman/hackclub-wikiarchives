@@ -142,6 +142,7 @@ dist
 *.kra~
 *.png~
 *~
+*.kra
 
 *.xml 
 # testing things
