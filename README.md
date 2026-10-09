@@ -16,7 +16,7 @@ In the future, with ongoing progress, this site will contain a jekyll blog of th
 ## Sources
 The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown (or having been downloaded as a pdf)):
 - [x] Welcome (Home Page) at [hackclub.wiki](https://web.archive.org/web/20251014093834/https://hackclub.wiki/) (17 captures, 2 from 2024, rest of 2025)
-- [x] [Confessions Article](https://web.archive.org/web/20251031063018mp_/https://hackclub.wiki/en/Confessions) (the latest, from 31 Oct 2025)
+- [x] [Confessions Article](https://web.archive.org/web/20251031063018mp_/https://hackclub.wiki/en/Confessions) (6 captures, the latest, from 31 Oct 2025)
 - [x] Nest Article
 - [ ] [List of Incidents](https://web.archive.org/web/20251104184230/https://hackclub.wiki/en/List_of_Incidents)
     - [x] [2025 Zach Latdroid Incident](https://web.archive.org/web/20251014092407mp_/https://hackclub.wiki/en/2025_Zach_Latdroid_Incident)
@@ -25,7 +25,6 @@ The following articles were retrieved from the internet Archive from hackclub.wi
 - [x] [List of YSWS](https://web.archive.org/web/20251011134836mp_/https://hackclub.wiki/en/List_of_You_Ship_We_Ships)
 - [x] [List of Hackathons](https://web.archive.org/web/20251102014713mp_/https://hackclub.wiki/en/List_of_Hackathons) (1 capture)
 - [x] [List of Community Teams](https://web.archive.org/web/20251022192447mp_/https://hackclub.wiki/en/List_of_Community_Teams) (1 capture)
-- [x] [Confessions](https://web.archive.org/web/20251031063018/https://hackclub.wiki/en/Confessions) (6 captures)
 
 1. [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
 2. I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
