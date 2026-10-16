@@ -1,17 +1,18 @@
-<div align="center">
+<header align="center" style="background-color:white;">
     <img src="HC Wiki Wordmark.png" />
     <!-- <img src="Logo.png" /> -->
     <!-- <h1>The Hack Club Wiki Archives</h1> -->
     <!-- <h4>A collection resources relating to the Hack Club Wiki.</h4> -->
-</div>
+</header>
 
 # Hack Club Wiki Archives
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
 In the future, with ongoing progress, this site will contain a jekyll blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
 1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
 2. Website source for an archived meta-site featuring the original content of hackclub.wiki (probably on Jekyll)
-3. Configuration files for a running Mediawiki and ad-hoc backups
-4. ~~Source code for a Mediawiki-HCA extension~~
+3. (Some) configuration files for a running Mediawiki and ad-hoc backups
+4. A Dockerfile specialised for the Hack Club Wiki
+5. ~~Source code for a Mediawiki-HCA extension~~
 
 ## Sources
 The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown (or having been downloaded as a pdf)):
@@ -25,6 +26,8 @@ The following articles were retrieved from the internet Archive from hackclub.wi
 - [x] [List of YSWS](https://web.archive.org/web/20251011134836mp_/https://hackclub.wiki/en/List_of_You_Ship_We_Ships)
 - [x] [List of Hackathons](https://web.archive.org/web/20251102014713mp_/https://hackclub.wiki/en/List_of_Hackathons) (1 capture)
 - [x] [List of Community Teams](https://web.archive.org/web/20251022192447mp_/https://hackclub.wiki/en/List_of_Community_Teams) (1 capture)
+
+
 
 1. [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
 2. I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
