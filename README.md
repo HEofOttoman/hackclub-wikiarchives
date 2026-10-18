@@ -1,9 +1,9 @@
-<header align="center" style="background-color:white;">
+<div align="center" style="background-color:white; border: 3px double #907b4c;">
     <img src="HC Wiki Wordmark.png" />
     <!-- <img src="Logo.png" /> -->
     <!-- <h1>The Hack Club Wiki Archives</h1> -->
     <!-- <h4>A collection resources relating to the Hack Club Wiki.</h4> -->
-</header>
+</div>
 
 # Hack Club Wiki Archives
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
@@ -27,11 +27,13 @@ The following articles were retrieved from the internet Archive from hackclub.wi
 - [x] [List of Hackathons](https://web.archive.org/web/20251102014713mp_/https://hackclub.wiki/en/List_of_Hackathons) (1 capture)
 - [x] [List of Community Teams](https://web.archive.org/web/20251022192447mp_/https://hackclub.wiki/en/List_of_Community_Teams) (1 capture)
 
-
-
 1. [sitemap.hackclub.com](https://sitemap.hackclub.com) was known to have existed, but is not on the Internet archive.
 2. I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
 3. Furthermore, some articles appear on the sidebar of the successfully archived articles, but aren't archived.
+
+- [ ] List of Services
+- [ ] [Democratic Republic of Hack Club]
+- [ ] [Spaces]
 
 ### Decisions
 - Some of the markdown renditions of the archived articles have been attached with a source link. That might change in the future 
