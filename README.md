@@ -6,6 +6,12 @@
 </div>
 
 # Hack Club Wiki Archives
+### A collection of history
+<h4><a href="#sources">Sources</a></h4>
+<h4><a href="#decisions">Decisions</a></h4>
+<h4><a href="#tech-stack">Tech Stack</a></h4>
+<h4><a href="#credits">Credits</a></h4>
+
 (Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
 In the future, with ongoing progress, this site will contain a jekyll blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
 1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
@@ -31,9 +37,9 @@ The following articles were retrieved from the internet Archive from hackclub.wi
 2. I believe I've listed all the hackclub.wiki pages accessible via the Internet Archives, though I might have missed a few.
 3. Furthermore, some articles appear on the sidebar of the successfully archived articles, but aren't archived.
 
-- [ ] List of Services
-- [ ] [Democratic Republic of Hack Club]
-- [ ] [Spaces]
+- [ ] [List of Services]()
+- [ ] [Democratic Republic of Hack Club]()
+- [ ] [Spaces]()
 
 ### Decisions
 - Some of the markdown renditions of the archived articles have been attached with a source link. That might change in the future 

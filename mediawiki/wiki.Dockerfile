@@ -1,6 +1,16 @@
+# FROM node:20-slim AS skin-builder
+# WORKDIR /build
+
+# Install git to download the skin repository
+# RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
+
+# Clone the Citizen repository (or specify a specific release tag/branch using -b)
 FROM mediawiki:1.46
 
 RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
+
+RUN git clone https://github.com/StarCitizenTools/mediawiki-skins-Citizen.git \
+    /var/www/html/skins/Citizen
 
 # RUN git clone --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend \
 RUN git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend --branch REL1_46 \
