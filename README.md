@@ -6,19 +6,16 @@
 </div>
 
 # Hack Club Wiki Archives
-### A collection of history
-<h4><a href="#sources">Sources</a></h4>
-<h4><a href="#decisions">Decisions</a></h4>
-<h4><a href="#tech-stack">Tech Stack</a></h4>
-<h4><a href="#credits">Credits</a></h4>
+### A small collection of history
+<h4><a href="#sources">Sources</a> · <a href="#decisions">Decisions</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#credits">Credits</a></h4>
 
-(Initially) A disorganised array of resources relating to restarting the Hack Club wiki.
-In the future, with ongoing progress, this site will contain a jekyll blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
+(Initially) A disorganised collection of resources relating to restarting the Hack Club wiki.
+In the future, with ongoing progress, this site will contain a Github bages blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
 1. Archived articles from [the original Unoffical [sic] Hack Club Wiki recovered from the Internet Archive](https://web.archive.org/web/20251014093834/https://hackclub.wiki/), linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
 2. Website source for an archived meta-site featuring the original content of hackclub.wiki (probably on Jekyll)
 3. (Some) configuration files for a running Mediawiki and ad-hoc backups
 4. A Dockerfile specialised for the Hack Club Wiki
-5. ~~Source code for a Mediawiki-HCA extension~~
+5. Automated bots working on the Hack Club Wiki
 
 ## Sources
 The following articles were retrieved from the internet Archive from hackclub.wiki (with a check indicating having been converted to markdown (or having been downloaded as a pdf)):

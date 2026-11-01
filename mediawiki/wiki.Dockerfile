@@ -5,6 +5,9 @@
 # RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
 
 # Clone the Citizen repository (or specify a specific release tag/branch using -b)
+## https://mwcitizen.skin/guide/installation
+# RUN git clone https://github.com/StarCitizenTools/mediawiki-skins-Citizen.git skins/Citizen --depth 1 \
+
 FROM mediawiki:1.46
 
 RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
