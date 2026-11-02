@@ -2,7 +2,7 @@ local p = {}
 
 function p.fetchlist(frame)
     -- local args = frame:getParent().args
-    local sourceUrl = "https://hackclub.com/api/v1/events/rss"
+    local sourceUrl = "https://hackclub.com/api/v1/events/"
     local dataMap = "name=name, description=description, link=link, date=pubDate, page=[[name]]"
 
     local data = mw.ext.externalData.getExternalData{
@@ -12,10 +12,10 @@ function p.fetchlist(frame)
     }
 
     if not data or #data == 0 then
-        return <span class="error">Error fetch failed</span
+        return '<span class="error">Error fetch failed</span>'
     end
 
-    local output = {}
+    local output     = {}
     table.insert(output, "=== All Hack Club Events ===")
 
     for i, row in ipairs(data) do

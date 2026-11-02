@@ -19,12 +19,17 @@ RUN git clone https://github.com/StarCitizenTools/mediawiki-skins-Citizen.git \
 RUN git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend --branch REL1_46 \
     /var/www/html/extensions/MobileFrontend
 
-RUN git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalData --branch REL1_46 \
+RUN git clone --branch REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalData \
     /var/www/html/extensions/ExternalData
 
-RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/RSS; \
-RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/PluggableAuth; \
-RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/OpenIDConnect; \
-
+# needed for the specific trailing path pattern eg. extensions/OpenIDConnect
+WORKDIR /var/www/html/extensions 
+    
+# RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/RSS; \
+RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS extensions/RSS \
+# RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/PluggableAuth; \
+RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth extensions/PluggableAuth \
+# RUN git clone --depth 1 -b REL1_46 https://wikimedia.org extensions/OpenIDConnect; \
+RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect extensions/OpenIDConnect \
 
     # git checkout REL1_46 \

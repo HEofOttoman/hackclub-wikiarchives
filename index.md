@@ -14,3 +14,4 @@ This is an archive of the original Hack Club wiki located at [hackclub.wiki](htt
     1. [2024 Hack Club Confessions Controversy](archived-articles/markdownified/2024_Hack_Club_Confessions_Controversy.md)
     2. [Privacy Concerns and Data Handling at Hack Club](archived-articles/markdownified/privacy_concerns_and_data_handling_at_Hack_Club.md)
     3. [2025 Zach Latdroid Incident](archived-articles/markdownified/2025_Zach_Latdroid_Incident.md)
+
