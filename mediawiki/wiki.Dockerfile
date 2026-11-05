@@ -25,9 +25,10 @@ RUN git clone --branch REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensio
 # needed for the specific trailing path pattern eg. extensions/OpenIDConnect
 WORKDIR /var/www/html/extensions 
 
-# \ = multiline command 
+# \ = multiline command (no need)
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS extensions/RSS
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth extensions/PluggableAuth
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect extensions/OpenIDConnect
+# RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/SlackNotifications extensions/SlackNotifications
 
     # git checkout REL1_46 \
