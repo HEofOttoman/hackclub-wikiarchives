@@ -13,7 +13,7 @@
 
 A disorganised of resources relating to running the Hack Club wiki.
 In the future, with ongoing progress, this site will contain a Github bages blog of the archived wiki pages converted to markdown, and some of the configuration for the active mediawiki. This repository contains the following:
-1. Archived articles from [the original Unoffical [sic] Hack Club Wiki](https://web.archive.org/web/20251014093834/https://hackclub.wiki/) recovered from the Internet Archive, linked, downloaded as a pdf, and manually converted to markdown (with some being downloaded from source)
+1. Archived articles from [the original Unoffical [sic] Hack Club Wiki](https://web.archive.org/web/20251014093834/https://hackclub.wiki/) recovered from the Internet Archive, linked, downloaded as a pdf, and manually converted to markdown. Some of these articles have had the entire page source downloaded.
 2. Website source for an archived meta-site featuring the original content of hackclub.wiki
 3. (Some) configuration files for a running Mediawiki
 4. A Dockerfile specialised for the Hack Club Wiki
@@ -43,19 +43,18 @@ The following articles were retrieved from the Internet Archive from [hackclub.w
 ### Decisions
 - Some of the markdown renditions of the archived articles have been attached with a source link. That is a citation; a feature that might change in the future. 
 - 'Incidents', as called by the editor, archived in this repository and hence the new wiki might be triggering to some who have forgotten such incidents; they have been archived for posterity's sake 
-- The question for restarting the wiki is: Should it be moderated and approved only by HQ, or a community effort? We don't want some Fandom level articles so that will be a thing, an Editors' Code of Conduct will need to be discussed.
 - Use permanent CDN images on the wikis to reduce storage. This requires externalImages to be enabled on Mediawiki, which might pose security risks.
 - Idea: Category 'meta' for pages relating to hack club terminology
-- File uploads *should* be disabled.. I checked it for whatever reason.
  
 ## Tech Stack
-- Docker is used to deploy the mediawiki on a personal Oracle VPS
-    - Deployable via docker-compose and the dockerfile
-- Jekyll (Github Pages) is (probably going to be) used for the archived version of the site
+- A Docker container is built and is used to deploy Mediawiki on a VPS.
+    - Deployed via `docker-compose.yml` pointed to the image built of the Dockerfile
+- Jekyll (Github Pages) is (probably going to be) used for the archived version of the site rendered from the markdown files
+
 
 ## Credits
 This project would not have been possible without the following amazing people: 
-- Owner, for having made the original wiki
+- Reindeer, for the hackclub.wiki domain & creator of it
 - The original hackclub.wiki Administrator, for having last edited some of these articles
 - Dani Davidson, for having last edited some archived articles
 - Those wonderful souls who have decided to archive the wiki, the result only which we would've been able to ban today.
