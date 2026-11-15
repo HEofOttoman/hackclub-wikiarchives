@@ -15,3 +15,5 @@ This is an archive of the original Hack Club wiki located at [hackclub.wiki](htt
     2. [Privacy Concerns and Data Handling at Hack Club](archived-articles/markdownified/privacy_concerns_and_data_handling_at_Hack_Club.md)
     3. [2025 Zach Latdroid Incident](archived-articles/markdownified/2025_Zach_Latdroid_Incident.md)
 
+<link rel="stylesheet" href="https://unpkg.com/@hackclub/theme@2/dist/hackclub.css" />
+<script type="module" src="https://unpkg.com/@hackclub/theme@2/dist/hackclub.js"></script>

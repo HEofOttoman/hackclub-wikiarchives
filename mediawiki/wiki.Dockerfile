@@ -29,6 +29,6 @@ WORKDIR /var/www/html/extensions
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS extensions/RSS
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth extensions/PluggableAuth
 RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect extensions/OpenIDConnect
-# RUN git clone --depth 1 -b REL1_46 https://gerrit.wikimedia.org/r/mediawiki/extensions/SlackNotifications extensions/SlackNotifications
+# RUN git clone --depth 1 https://gerrit.wikimedia.org/r/mediawiki/extensions/SlackNotifications extensions/SlackNotifications
 
     # git checkout REL1_46 \
